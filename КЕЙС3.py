@@ -1,7 +1,9 @@
-import random
-from localizer import *
+# case-study #3
+# Developers: Ponasenko K., Aliev T., Limanova E.
 
-# Варианты элементов
+import random
+import ru_local as ru
+
 weapons = ["Револьвер", "Веревка", "Свинцовая труба", "Отравленное вино", "Шарф"]
 locations = ["Библиотека", "Погреб", "Зимний сад", "Ванная комната", "Кухня"]
 motives = ["Наследство", "Самооборона", "Месть", "Устранение свидетеля", "Жертвоприношение"]
